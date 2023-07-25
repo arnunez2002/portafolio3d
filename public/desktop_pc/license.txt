@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nasa Space Shuttle
+* source:	https://sketchfab.com/3d-models/nasa-space-shuttle-69cba9fe15ff428eaaba57bf61941109
+* author:	Michel.Laborda.Gonzalez (https://sketchfab.com/Michel.Laborda.Gonzalez)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nasa Space Shuttle" (https://sketchfab.com/3d-models/nasa-space-shuttle-69cba9fe15ff428eaaba57bf61941109) by Michel.Laborda.Gonzalez (https://sketchfab.com/Michel.Laborda.Gonzalez) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
